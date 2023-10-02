@@ -1,4 +1,5 @@
-https://watchdominion.com
+Student game dev. A mixture of school and personal projects at the moment.
+<!---https://watchdominion.com--->
 
 <!---
 Mirimiri54322/Mirimiri54322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
