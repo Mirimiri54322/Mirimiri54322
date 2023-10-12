@@ -1,4 +1,6 @@
 Student game dev. A mixture of school and personal projects at the moment.
+https://malogan.itch.io/
+https://www.linkedin.com/in/miriam-logan/
 <!---https://watchdominion.com--->
 
 <!---
